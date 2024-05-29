@@ -1,4 +1,4 @@
-##Machine Learning Classification Algorithms
+#Machine Learning Classification Algorithms
 Classification algorithms are used to categorize data points into predefined labels. Key algorithms include:
 
 Logistic Regression: Predicts binary outcomes using a linear approach.
